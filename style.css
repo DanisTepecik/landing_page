@@ -40,9 +40,11 @@ h1{
 }
 
 
+
+
 nav.menu-nav ul li.btn a{
 	color:rgb(0, 0, 0);
-	background-color: rgb(255, 255, 255) ;
+	background-color: rgb(245, 245, 245) ;
 	text-decoration: none;
 	padding: 10px;
 	font-size: 40px;
@@ -55,6 +57,13 @@ nav.menu-nav ul li.btn{
 	display: inline-block;
 }
 
+
+.onglet{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgba(146, 134, 134, 0.896);
+}
 
 .z{
     color: rgb(255, 255, 255);

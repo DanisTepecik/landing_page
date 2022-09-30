@@ -1,0 +1,123 @@
+/* selecteur{
+    instruction
+    propieter : valeur;
+}
+*/
+
+@media screen and (max-width: 1024px){/* Nouvelles règles si la fenêtre fait 1024px de large ou moins*/}
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.resp{
+    color: firebrick;
+
+}
+
+img{display:none;
+}
+
+@media all and (max-device-width:480px)
+
+body{
+    background-color: rgba(255, 255, 255, 0.993);
+}
+
+.live{
+    align-items: flex-start;
+    height: 10px;
+
+}
+
+
+h1{
+    color: rgb(255, 255, 255);
+    font-size: 150px;
+    
+    
+
+}
+
+
+nav.menu-nav ul li.btn a{
+	color:rgb(0, 0, 0);
+	background-color: rgb(255, 255, 255) ;
+	text-decoration: none;
+	padding: 10px;
+	font-size: 40px;
+	
+}
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+}
+
+
+.z{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-decoration:underline
+    
+}
+
+.ze{
+    height: 60em;
+    width: 100em;
+}
+
+.amin{
+    width: 40em;
+    background-image: unset;
+}
+
+
+.titi{
+    flex-direction: left;
+}
+
+.flotte {
+    display: flex;
+    justify-content: flex-start;
+}
+ 
+
+
+ 
+
+
+.e{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+}
+
+.toto{
+    color: rgb(255, 255, 255);
+}
+
+.lol{
+    color: crimson;
+}
+
+.lil{
+    color: orange;
+}
+
+.lpl{
+    color: rgb(212, 0, 255);
+}
+
+#ko{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0)
+}
+
+img{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+  }
+
+ 

@@ -222,6 +222,12 @@ nav.menu-nav ul li.btn{
     width: 8em;
 }
 
+.mb{
+    height: 50em;
+    width: 100em;
+}
+
+
 .group{
     text-align: center;
 }
@@ -230,6 +236,7 @@ nav.menu-nav ul li.btn{
     display:inline-block
     
 }
+
 
 .mj{
     height: 50em;
@@ -245,6 +252,8 @@ nav.menu-nav ul li.btn{
     height: 50em;
     width: 30em;
 }
+
+
 
 
 img{ display: block;
